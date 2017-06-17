@@ -1,0 +1,11 @@
+poke:
+  # type - accepted values
+  #   targeted: requires a target - /cmd [player]
+  #   single: player only - /cmd
+  #   sudoother: makes other player say something defined string - /cmd [player]
+  #   sudo: makes the player say defined string - /cmd
+  type: targeted
+  cooldown: 15 #seconds
+  pattern: "&b%{sender}&e poked &b%{recipient}&e!"
+  aliases:
+  - skrub

@@ -1,0 +1,20 @@
+name: Actions
+main: co.aeva.actions.Actions
+version: 1
+softdepend: [Essentials]
+commands:
+  actions:
+  hug:
+  roundhouse:
+  slap:
+  rekt:
+  shrek:
+  shock:
+  spook:
+  launch:
+  meme:
+  thegame:
+  troll:
+  aeva:
+  boi:
+  school:
